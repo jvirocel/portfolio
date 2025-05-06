@@ -25,7 +25,7 @@ A professional portfolio website showcasing my work and experience in public adm
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/jvirocel/portfolio.git
    ```
 
 2. Set up your local environment:
